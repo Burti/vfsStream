@@ -1,8 +1,14 @@
 {
-    "name": "mikey179/vfsStream",
+    "name": "burti/vfsStream",
     "type": "library",
-    "homepage": "http://vfs.bovigo.org/",
+    "homepage": "https://github.com/Burti/vfsStream",
     "license": "BSD",
+    "authors": [
+        {
+            "name": "Caio Paiola",
+            "email": "caio____@live.com"
+        }
+    ],
     "require": {
         "php": ">=5.3.0"
     },

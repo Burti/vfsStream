@@ -1,4 +1,7 @@
-/composer.lock
-/docs
-/nbproject
-/vendor
+*.sublime-*
+.*DS_Store
+*nbproject*
+*._*
+phpunit.xml
+vendor
+*.swp
