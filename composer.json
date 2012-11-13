@@ -3,6 +3,8 @@
     "type": "library",
     "homepage": "https://github.com/Burti/vfsStream",
     "license": "BSD",
+    "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "Caio Paiola",
