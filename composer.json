@@ -1,14 +1,11 @@
 {
     "name": "burti/vfsstream",
-    "type": "library",
-    "homepage": "https://github.com/Burti/vfsStream",
+    "homepage": "http://vfs.bovigo.org/",
     "license": "BSD",
-    "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Caio Paiola",
-            "email": "caio____@live.com"
+            "name": "Frank Kleine"
         }
     ],
     "require": {
